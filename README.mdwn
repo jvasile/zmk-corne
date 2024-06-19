@@ -1,0 +1,3 @@
+I initialized this work by following the instructions at
+https://zmk.dev/docs/user-setup and running the curl|bash script.  That fetched
+zmk from upstream and made this repo, which is pushed to code.librehq.
